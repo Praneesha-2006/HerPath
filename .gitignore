@@ -1,0 +1,25 @@
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+.gradle/
+build/
+captures/
+local.properties
+*.apk
+*.aar
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db
