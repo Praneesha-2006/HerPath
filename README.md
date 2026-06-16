@@ -12,6 +12,7 @@ Traditional maps prioritize speed, not safety. Shortest routes often pass throug
 
 ---
 
+
 ## 🚨 The Problem
 - Shortest routes often pass through poorly lit or isolated areas  
 - Existing navigation apps provide no safety context  
@@ -32,6 +33,14 @@ An AI-powered navigation system that:
 - 🚌 Bus Stop Density  
 
 ---
+## 📱 SafePath App Screenshots
+
+### Home Screen
+![SafePath Home](assests/img1.png) ![SafePath Input](assests/img2.png)
+
+### Safe Routes Result
+![SafePath Routes](assests/img3.png)
+
 
 ## 🚀 How It Works
 1. User opens the app and enters their destination  
